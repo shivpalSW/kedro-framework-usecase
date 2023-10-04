@@ -120,3 +120,8 @@ To automatically strip out all output cell contents before committing to `git`, 
 ## Package your Kedro project
 
 [Further information about building project documentation and packaging your project](https://docs.kedro.org/en/stable/tutorial/package_a_project.html)
+
+#### Kedro Viz
+![Alt text](kedro-pipeline-1.png)
+![Alt text](kedro-pipeline2.png)
+![Alt text](kedro-pipeline3.png)
