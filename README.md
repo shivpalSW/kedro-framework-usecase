@@ -124,5 +124,7 @@ To automatically strip out all output cell contents before committing to `git`, 
 #### Kedro Viz
 
 ![Stage1](../kedro-pipeline-1.png)
+
 ![Stage2](../kedro-pipeline2.png)
+
 ![Stage3](../kedro-pipeline3.png)
