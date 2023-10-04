@@ -128,3 +128,5 @@ To automatically strip out all output cell contents before committing to `git`, 
 ![Stage2](G:\ML_PROJECTS2020\KEDRO\kedro-framework2\kedro-pipeline2.png)
 
 ![Stage3](G:\ML_PROJECTS2020\KEDRO\kedro-framework2\kedro-pipeline3.png)
+
+
